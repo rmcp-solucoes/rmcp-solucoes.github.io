@@ -14,3 +14,41 @@
     padding-top: 2rem;
     font-size: 1.5em;
 }
+
+.iconeContatos{
+    width: 64px;
+    height: 64px;
+}
+
+.contatos > a:hover:nth-child(1){
+    background-color: #6EA4BF;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.contatos > a:hover:nth-child(2){
+    background-color: rgb(216, 90, 90);
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.contatos > a:hover:nth-child(3){
+    background-color: rgb(252, 248, 127);
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.contatos > a:hover:nth-child(4){
+    background-color: #BCE2CB;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.contatos > a:hover:nth-child(5){
+    background-color: rgb(238, 156, 227);
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.footerFinal {
+    margin: 0;
+    padding: 2em 1em 1em 1em;
+    color: #EFE9F4;
+    background-color: #0F0F0F;
+    text-align: center;
+}
