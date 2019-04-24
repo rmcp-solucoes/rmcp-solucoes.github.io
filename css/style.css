@@ -1,0 +1,16 @@
+.parallax1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.555),  rgba(0, 0, 0, 0.432)), url('../imagem/bannerParallax.jpeg');
+    height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.textoCentro h2{
+    font-size: 5em;
+}
+
+.textoCentro p{
+    padding-top: 2rem;
+    font-size: 1.5em;
+}
